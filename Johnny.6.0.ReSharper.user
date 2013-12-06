@@ -1,0 +1,546 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Models/f:Table.cs" caret="246" fromTop="10" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Views/d:Article/f:Details.cshtml" caret="0" fromTop="0" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Models/f:Action.cs" caret="0" fromTop="0" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Logic/f:DefaultLogic.cs" caret="914" fromTop="27" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Logic/f:ArticleLogic.cs" caret="0" fromTop="0" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Controllers/f:ArticleController.cs" caret="0" fromTop="0" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Controllers/f:MenuController.cs" caret="218" fromTop="10" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/f:Helper.cs" caret="2614" fromTop="78" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Data/f:MenuData.cs" caret="183" fromTop="9" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Models/f:Category.cs" caret="215" fromTop="10" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Models/f:Dish.cs" caret="281" fromTop="12" />
+      <File id="A02ED817-DC00-4E7B-BB4D-49DB3D1B57B7/d:Data/f:UserDataTest.cs" caret="0" fromTop="0" />
+      <File id="A02ED817-DC00-4E7B-BB4D-49DB3D1B57B7/d:Data/f:ArticleDataTest.cs" caret="1101" fromTop="22" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Models/f:EntityContext.cs" caret="1263" fromTop="36" />
+      <File id="A02ED817-DC00-4E7B-BB4D-49DB3D1B57B7/f:TestData.cs" caret="23611" fromTop="13" />
+      <File id="A02ED817-DC00-4E7B-BB4D-49DB3D1B57B7/d:Data/f:MenuDataTest.cs" caret="928" fromTop="35" />
+      <File id="A02ED817-DC00-4E7B-BB4D-49DB3D1B57B7/f:TestHelper.cs" caret="521" fromTop="0" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Data/f:Repository.cs" caret="807" fromTop="33" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Views/d:Shared/f:_Layout.cshtml" caret="858" fromTop="24" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Data/f:DataContext.cs" caret="900" fromTop="37" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Data/f:DishCategoryData.cs" caret="265" fromTop="11" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Logic/f:MenuLogic.cs" caret="639" fromTop="23" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Scripts/f:Main.js" caret="619" fromTop="17" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Content/f:Site.css" caret="2712" fromTop="26" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Views/d:Menu/f:Index.cshtml" caret="928" fromTop="31" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Views/d:Article/f:Index.cshtml" caret="222" fromTop="9" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Models/f:Article.cs" caret="443" fromTop="19" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Models/f:Model.cs" caret="338" fromTop="13" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Controllers/f:DefaultController.cs" caret="801" fromTop="16" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Views/d:Article/f:Edit.cshtml" caret="1789" fromTop="30" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Data/f:DataContext.cs" caret="900" fromTop="28" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Logic/f:MenuLogic.cs" caret="747" fromTop="27" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Data/f:Repository.cs" caret="807" fromTop="33" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Data/f:DishCategoryData.cs" caret="536" fromTop="15" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Views/d:Menu/f:Index.cshtml" caret="1387" fromTop="29" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Views/d:Shared/f:_Layout.cshtml" caret="858" fromTop="24" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Views/d:Menu/f:Index.cshtml" caret="860" fromTop="23" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Logic/f:MenuLogic.cs" caret="468" fromTop="17" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Data/f:DishCategoryData.cs" caret="520" fromTop="17" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Data/f:DishCategoryData.cs" caret="265" fromTop="11" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Logic/f:MenuLogic.cs" caret="639" fromTop="23" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Views/d:Menu/f:Index.cshtml" caret="1328" fromTop="35" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Content/f:Site.css" caret="2888" fromTop="36" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Scripts/f:Main.js" caret="73" fromTop="5" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Content/f:Site.css" caret="2798" fromTop="30" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Scripts/f:Main.js" caret="850" fromTop="39" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Views/d:Menu/f:Index.cshtml" caret="905" fromTop="30" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Scripts/f:Main.js" caret="767" fromTop="34" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Scripts/f:Main.js" caret="660" fromTop="32" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Views/d:Menu/f:Index.cshtml" caret="105" fromTop="5" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Content/f:Site.css" caret="2712" fromTop="26" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Views/d:Menu/f:Index.cshtml" caret="1397" fromTop="38" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Views/d:Menu/f:Index.cshtml" caret="675" fromTop="18" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Views/d:Article/f:Edit.cshtml" caret="1959" fromTop="48" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Controllers/f:DefaultController.cs" caret="801" fromTop="25" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Views/d:Article/f:Edit.cshtml" caret="318" fromTop="7" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Views/d:Article/f:Edit.cshtml" caret="67" fromTop="2" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Views/d:Article/f:Edit.cshtml" caret="381" fromTop="10" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Models/f:Model.cs" caret="338" fromTop="13" />
+      <File id="95210245-5435-4448-8A31-F883B26640F0/d:Views/d:Article/f:Edit.cshtml" caret="1789" fromTop="30" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="protected" priority="31" />
+      <Item value="private" priority="160" />
+      <Item value="int" priority="415" />
+      <Item value="return" priority="383" />
+      <Item value="skip" priority="95" />
+      <Item value="value" priority="31" />
+      <Item value="public" priority="479" />
+      <Item value="IEnumerable" priority="122" />
+      <Item value="input" priority="61" />
+      <Item value="static" priority="191" />
+      <Item value="readonly" priority="31" />
+      <Item value="string" priority="592" />
+      <Item value="Page`0" priority="63" />
+      <Item value="NumberParam" priority="63" />
+      <Item value="if" priority="159" />
+      <Item value="null" priority="127" />
+      <Item value="rawNumber" priority="31" />
+      <Item value="raw" priority="31" />
+      <Item value="out" priority="31" />
+      <Item value="number" priority="94" />
+      <Item value="page" priority="95" />
+      <Item value="new" priority="479" />
+      <Item value="Page" priority="90" />
+      <Item value="Helper`0" priority="186" />
+      <Item value="const" priority="31" />
+      <Item value="defaultSize" priority="31" />
+      <Item value="IQueryable" priority="90" />
+      <Item value="dbSet" priority="63" />
+      <Item value="repository" priority="31" />
+      <Item value="logic" priority="31" />
+      <Item value="BaseShadow`0" priority="31" />
+      <Item value="View`0" priority="31" />
+      <Item value="ctor" priority="31" />
+      <Item value="IsStatic" priority="31" />
+      <Item value="false" priority="95" />
+      <Item value="Model" priority="189" />
+      <Item value="Html" priority="397" />
+      <Item value="Manager`0" priority="31" />
+      <Item value="PartialView`0" priority="31" />
+      <Item value="ActionResult`0" priority="31" />
+      <Item value="true" priority="64" />
+      <Item value="Request" priority="95" />
+      <Item value="model" priority="31" />
+      <Item value="AspNetHostingPermission`0" priority="31" />
+      <Item value="checked" priority="29" />
+      <Item value="Details" priority="32" />
+      <Item value="Ajax" priority="29" />
+      <Item value="helper" priority="29" />
+      <Item value="AjaxExtensions`0" priority="31" />
+      <Item value="text" priority="95" />
+      <Item value="action" priority="127" />
+      <Item value="AjaxOptions`0" priority="31" />
+      <Item value="UpdateTargetId" priority="31" />
+      <Item value="using" priority="120" />
+      <Item value="HtmlString`0" priority="31" />
+      <Item value="System" priority="30" />
+      <Item value="Web" priority="26" />
+      <Item value="MvcHtmlString`0" priority="95" />
+      <Item value="ViewContext`0" priority="31" />
+      <Item value="AjaxRequestExtensions`0" priority="31" />
+      <Item value="RequestNotification`0" priority="31" />
+      <Item value="IsAjax`0" priority="63" />
+      <Item value="controller" priority="224" />
+      <Item value="id" priority="63" />
+      <Item value="HttpContext`0" priority="63" />
+      <Item value="HttpContextBase`0" priority="63" />
+      <Item value="as" priority="95" />
+      <Item value="object" priority="31" />
+      <Item value="AssociatedMetadataProvider`0" priority="31" />
+      <Item value="GetController`0" priority="127" />
+      <Item value="article" priority="217" />
+      <Item value="UniAction`0" priority="31" />
+      <Item value="RouteCollectionExtensions`0" priority="31" />
+      <Item value="Id" priority="31" />
+      <Item value="Layout" priority="31" />
+      <Item value="." priority="26" />
+      <Item value="div" priority="59" />
+      <Item value="html" priority="63" />
+      <Item value="GetAction`0" priority="63" />
+      <Item value="AppDomainManager`0" priority="31" />
+      <Item value="Model`0" priority="31" />
+      <Item value="this" priority="127" />
+      <Item value="else" priority="31" />
+      <Item value="prop" priority="31" />
+      <Item value="DataType`0" priority="58" />
+      <Item value="StringLength" priority="31" />
+      <Item value="MinimumLength" priority="31" />
+      <Item value="DefaultLogic" priority="63" />
+      <Item value="override" priority="63" />
+      <Item value="d" priority="255" />
+      <Item value="Controllers" priority="30" />
+      <Item value="DefaultController" priority="31" />
+      <Item value="DishLogic" priority="28" />
+      <Item value="base" priority="31" />
+      <Item value="DataContext`0" priority="159" />
+      <Item value="WebGrid`0" priority="31" />
+      <Item value="var" priority="191" />
+      <Item value="WebGrid" priority="28" />
+      <Item value="SortedSet&lt;string&gt;" priority="28" />
+      <Item value="canPage" priority="31" />
+      <Item value="grid" priority="157" />
+      <Item value="Ascending" priority="16" />
+      <Item value="displayHeader" priority="31" />
+      <Item value="defaultSort" priority="31" />
+      <Item value="columns" priority="31" />
+      <Item value="format" priority="95" />
+      <Item value="Category`0" priority="191" />
+      <Item value="Category" priority="59" />
+      <Item value="short" priority="64" />
+      <Item value="Rand" priority="95" />
+      <Item value="Context" priority="181" />
+      <Item value="foreach" priority="91" />
+      <Item value="TestData`0" priority="31" />
+      <Item value="Name" priority="31" />
+      <Item value="category" priority="255" />
+      <Item value="for" priority="31" />
+      <Item value="DishDataTest`0" priority="31" />
+      <Item value="sizeof" priority="31" />
+      <Item value="dish" priority="283" />
+      <Item value="TestHelper`0" priority="223" />
+      <Item value="categoryId" priority="31" />
+      <Item value="GenDish`0" priority="31" />
+      <Item value="ArticleDataTest`0" priority="63" />
+      <Item value="IsVisible" priority="32" />
+      <Item value="double" priority="31" />
+      <Item value="threshold" priority="26" />
+      <Item value="Article`0" priority="63" />
+      <Item value="array" priority="63" />
+      <Item value="Length" priority="26" />
+      <Item value="GetAny`0" priority="26" />
+      <Item value="Repository" priority="63" />
+      <Item value="Repository&lt;Category&gt;" priority="28" />
+      <Item value="categoryData" priority="63" />
+      <Item value="EntityContext`0" priority="31" />
+      <Item value="context" priority="95" />
+      <Item value="EnvironmentVariableTarget`0" priority="31" />
+      <Item value="propg" priority="31" />
+      <Item value="categories" priority="32" />
+      <Item value="Categories" priority="63" />
+      <Item value="Read`0" priority="31" />
+      <Item value="in" priority="63" />
+      <Item value="dishes" priority="31" />
+      <Item value="DishCategoryData" priority="29" />
+      <Item value="Math`0" priority="26" />
+      <Item value="Display" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Take`1" priority="53" />
+      <Item value="Skip`1" priority="26" />
+      <Item value="Where`1" priority="26" />
+      <Item value="OrderBy`2" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.HttpContext">
+      <Item value="Current" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpContext">
+      <Item value="Request" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpRequest">
+      <Item value="Params" priority="53" />
+      <Item value="RequestContext" priority="53" />
+      <Item value="Headers" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="TryParse`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Johnny.Models.Page">
+      <Item value="Skip" priority="53" />
+      <Item value="Take`1" priority="27" />
+      <Item value="size" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Johnny.Helper">
+      <Item value="ReadParam`0" priority="26" />
+      <Item value="IsAjax`0" priority="80" />
+      <Item value="SetLayout`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:">
+      <Item value="Read`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="RazorTransitionCompletionContext">
+      <Item value="Page" priority="9" />
+      <Item value="Html" priority="59" />
+      <Item value="checked" priority="7" />
+      <Item value="Ajax" priority="9" />
+      <Item value="helper" priority="7" />
+      <Item value="using" priority="23" />
+      <Item value="Helper`0" priority="5" />
+      <Item value="Model" priority="9" />
+      <Item value="grid" priority="7" />
+      <Item value="foreach" priority="15" />
+      <Item value="category" priority="7" />
+      <Item value="dish" priority="15" />
+      <Item value="Math`0" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.HtmlHelper`1">
+      <Item value="RenderPartial`0" priority="53" />
+      <Item value="ActionLink`0" priority="54" />
+      <Item value="UniAction`0" priority="81" />
+      <Item value="Permanent`0" priority="26" />
+      <Item value="LabelFor`2" priority="26" />
+      <Item value="CheckBox`0" priority="26" />
+      <Item value="HiddenFor`2" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="JavaScriptSpecificContext">
+      <Item value="location" priority="21" />
+      <Item value="window" priority="10" />
+      <Item value="address" priority="10" />
+      <Item value="controller" priority="21" />
+      <Item value="action" priority="21" />
+      <Item value="go" priority="5" />
+      <Item value="if" priority="43" />
+      <Item value="else" priority="32" />
+      <Item value="function" priority="43" />
+      <Item value="checked" priority="10" />
+      <Item value="var" priority="10" />
+      <Item value="$" priority="29" />
+      <Item value="sum" priority="21" />
+      <Item value="price" priority="10" />
+      <Item value="parseInt" priority="7" />
+      <Item value="fun" priority="10" />
+      <Item value="item" priority="21" />
+      <Item value="hideAllMenu" priority="10" />
+      <Item value="return" priority="10" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Johnny.Logic.Manager">
+      <Item value="Current" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Johnny.Logic.Manager">
+      <Item value="IsStatic" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpRequestBase">
+      <Item value="IsAjaxRequest`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Johnny.Models.Article">
+      <Item value="Id" priority="53" />
+      <Item value="PermanentLink`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.Mvc.Ajax.AjaxExtensions">
+      <Item value="ActionLink`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.Mvc.MvcHtmlString">
+      <Item value="Create`0" priority="26" />
+      <Item value="Empty" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.Mvc.AjaxRequestExtensions">
+      <Item value="IsAjaxRequest`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Aggregate`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Routing.RequestContext">
+      <Item value="RouteData" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Routing.RouteData">
+      <Item value="Route" priority="26" />
+      <Item value="Values" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Routing.RouteValueDictionary">
+      <Item value="Where`1" priority="26" />
+      <Item value="TryGetValue`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Johnny.Models.Model">
+      <Item value="Id" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="CssCodeCompletionContext">
+      <Item value="text-align" priority="39" />
+      <Item value="text-decoration" priority="15" />
+      <Item value="underline" priority="9" />
+      <Item value="color" priority="11" />
+      <Item value="blue" priority="6" />
+      <Item value="cursor" priority="5" />
+      <Item value="pointer" priority="6" />
+      <Item value="article" priority="23" />
+      <Item value="itemprop" priority="5" />
+      <Item value="text-indent" priority="13" />
+      <Item value="font-style" priority="5" />
+      <Item value="italic" priority="4" />
+      <Item value="background-color" priority="17" />
+      <Item value="margin-bottom" priority="5" />
+      <Item value="div" priority="5" />
+      <Item value="margin" priority="11" />
+      <Item value="justify" priority="9" />
+      <Item value="font-size" priority="5" />
+      <Item value="font-variant" priority="5" />
+      <Item value="small-caps" priority="4" />
+      <Item value="font-weight" priority="5" />
+      <Item value="normal" priority="4" />
+      <Item value="right" priority="27" />
+      <Item value="width" priority="23" />
+      <Item value="border" priority="11" />
+      <Item value="border-width" priority="7" />
+      <Item value="border-radius" priority="17" />
+      <Item value="padding" priority="23" />
+      <Item value="solid" priority="13" />
+      <Item value="black" priority="6" />
+      <Item value="auto" priority="13" />
+      <Item value="cmd" priority="14" />
+      <Item value="hover" priority="9" />
+      <Item value="gray" priority="13" />
+      <Item value="display" priority="29" />
+      <Item value="inline" priority="9" />
+      <Item value="block" priority="23" />
+      <Item value="section" priority="11" />
+      <Item value="padding-top" priority="3" />
+      <Item value="float" priority="11" />
+      <Item value="left" priority="6" />
+      <Item value="permanent" priority="4" />
+      <Item value="a" priority="5" />
+      <Item value="cmd-container" priority="5" />
+      <Item value="nav" priority="5" />
+      <Item value="center" priority="6" />
+      <Item value="aside" priority="5" />
+      <Item value="inline-block" priority="13" />
+      <Item value="central" priority="4" />
+      <Item value="blanchedalmond" priority="4" />
+      <Item value="table" priority="5" />
+      <Item value="tr" priority="5" />
+      <Item value="table-layout" priority="5" />
+      <Item value="border-collapse" priority="5" />
+      <Item value="collapse" priority="11" />
+      <Item value="dish-menu" priority="5" />
+      <Item value="visibility" priority="17" />
+      <Item value="hidden" priority="17" />
+      <Item value="td" priority="5" />
+      <Item value="category" priority="4" />
+      <Item value="height" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="HtmlCodeCompletionContext">
+      <Item value="meta" priority="5" />
+      <Item value="http-equiv" priority="5" />
+      <Item value="name" priority="5" />
+      <Item value="article" priority="13" />
+      <Item value="itemscope" priority="11" />
+      <Item value="itemprop" priority="17" />
+      <Item value="class" priority="54" />
+      <Item value="author" priority="5" />
+      <Item value="div" priority="51" />
+      <Item value="cmd-container" priority="17" />
+      <Item value="onclick" priority="5" />
+      <Item value="go" priority="6" />
+      <Item value="id" priority="5" />
+      <Item value="td" priority="23" />
+      <Item value="table" priority="5" />
+      <Item value="rowspan" priority="5" />
+      <Item value="dish-menu" priority="5" />
+      <Item value="category" priority="5" />
+      <Item value="input" priority="13" />
+      <Item value="type" priority="5" />
+      <Item value="checkbox" priority="5" />
+      <Item value="onchange" priority="5" />
+      <Item value="span" priority="5" />
+      <Item value="script" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Johnny.Models.User">
+      <Item value="Login" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.HtmlHelper">
+      <Item value="ActionLink`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.WebPages.WebPageBase">
+      <Item value="Layout" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.ComponentModel.DataAnnotations.DataType">
+      <Item value="Text" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="OrderBy`2" priority="26" />
+      <Item value="ToList`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Johnny.Models.Dish">
+      <Item value="Name" priority="107" />
+      <Item value="Id" priority="53" />
+      <Item value="CategoryId" priority="80" />
+      <Item value="IsVisible" priority="26" />
+      <Item value="Amount" priority="53" />
+      <Item value="Price" priority="26" />
+      <Item value="PreparationTime" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Johnny.Data.DataContext">
+      <Item value="Current" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Johnny.Data.DataContext">
+      <Item value="Dish" priority="26" />
+      <Item value="Context" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ASP._Page_Views_Menu_Index_cshtml">
+      <Item value="SetViewData`0" priority="26" />
+      <Item value="SetLayout`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Helpers.WebGrid">
+      <Item value="ToString`0" priority="26" />
+      <Item value="SortDirection" priority="26" />
+      <Item value="GetHtml`0" priority="26" />
+      <Item value="Columns`0" priority="26" />
+      <Item value="Column`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Johnny.Models.EntityContext">
+      <Item value="SaveChanges`0" priority="53" />
+      <Item value="Menu" priority="135" />
+      <Item value="DishCategories" priority="53" />
+      <Item value="Users" priority="26" />
+      <Item value="Articles" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Johnny.Tests.TestData">
+      <Item value="Categories" priority="26" />
+      <Item value="MaleNames" priority="26" />
+      <Item value="Surnames" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Entity.DbSet`1">
+      <Item value="Add`0" priority="81" />
+      <Item value="Create`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Random">
+      <Item value="Next`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Johnny.Tests.Data.DishDataTest">
+      <Item value="GenDish`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Johnny.Tests.TestHelper">
+      <Item value="Context" priority="53" />
+      <Item value="GenBoolean`0" priority="53" />
+      <Item value="GenFrom`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Johnny.Models.Category">
+      <Item value="Id" priority="80" />
+      <Item value="Name" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Johnny.Tests.Data.ArticleDataTest">
+      <Item value="GenTitle`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Johnny.Data.Repository`1">
+      <Item value="Read`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Johnny.Data.DishCategoryData">
+      <Item value="Categories" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="Milliseconds" priority="26" />
+      <Item value="Minutes" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="JavaScriptSpecificContextQualified">
+      <Item value="val" priority="18" />
+      <Item value="each" priority="8" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Floor`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ASP._Page_Views_Article_Edit_cshtml">
+      <Item value="SetLayout`0" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

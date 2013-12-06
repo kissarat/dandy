@@ -1,0 +1,55 @@
+@using Johnny
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="pragma" content="no-cache">
+<title>@ViewBag.Title</title>
+<link href="@Url.Content("~/Content/Site.css")" rel="stylesheet" type="text/css" />
+<script src="@Url.Content("~/Scripts/jquery-1.7.1.min.js")" type="text/javascript"></script>
+<script src="@Url.Content("~/Scripts/Main.js")" type="text/javascript"></script>
+</head>
+
+<body>
+<div class="aside"></div>
+<div class="central">
+<header>
+    <div class="logo"></div>
+    <nav>
+        <div class="menu">
+            <div>
+                @Html.UniController("Головна", "Home")
+                @Html.UniController("Про нас", "About")
+                @Html.UniController("Новини", "Article")
+                @Html.UniController("Афіша", "Events")
+                @Html.UniController("Меню", "Menu")
+                @Html.UniController("Резервація", "Reservation")
+                @Html.UniController("Nota Bene", "NotaBene")
+                @Html.UniAction("Контакти", "Home", "Contact")
+            </div>
+            @*<div class="strings"> <!-- ?? Струни з вибором пункту меню -->
+                <div class="mediator"></div> <!-- Медіатор який вказує на пункт -->
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>*@
+        </div>
+        @*<div class="menu">
+            <!-- ? Підменю -->
+        </div>*@
+    </nav>
+</header>
+<div id="main">
+@RenderBody()
+</div>
+<footer>
+    <!--small>@ViewBag.Copyright</small-->
+</footer>
+</div>
+<div class="aside"></div>
+</body>
+</html>
+

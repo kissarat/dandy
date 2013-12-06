@@ -1,0 +1,231 @@
+body
+{
+	font-size: .85em;
+	font-family: "Trebuchet MS", Verdana, Helvetica, Sans-Serif;
+	color: #232323;
+	background-color: #fff;
+}
+
+header,
+footer,
+nav,
+section {
+	display: block;
+}
+
+/*.aside 
+{
+    display: inline-block;
+    width: 150px;
+}*/
+
+.central {
+    display: inline-block;
+}
+
+/* Basic forms
+-----------------------------------------------------------*/
+
+fieldset 
+{
+	border:1px solid #ddd;
+	padding:0 1.4em 1.4em 1.4em;
+	margin:0 0 1.5em 0;
+}
+
+legend 
+{
+	font-size:1.2em;
+	font-weight: bold;
+}
+
+textarea 
+{
+	min-height: 75px;
+}
+
+.editor-label 
+{
+	margin: 1em 0 0 0;
+}
+
+.editor-field 
+{
+	margin:0.5em 0 0 0;
+}
+
+
+/* Validation helpers
+-----------------------------------------------------------*/
+.field-validation-error
+{
+	color: #ff0000;
+}
+
+.field-validation-valid
+{
+	display: none;
+}
+
+.input-validation-error
+{
+	border: 1px solid #ff0000;
+	background-color: #ffeeee;
+}
+
+.validation-summary-errors
+{
+	font-weight: bold;
+	color: #ff0000;
+}
+
+.validation-summary-valid
+{
+	display: none;
+}
+
+/* Header
+-----------------------------------------------------------*/
+
+header
+{
+	text-align: center;
+}
+
+div.logo
+{
+/*    background-image: url("Logo.png"); */
+	height: 180;
+}
+
+/* Menu
+-----------------------------------------------------------*/
+
+nav {
+    text-align: center;
+}
+
+div.menu
+{
+	display: table;
+}
+
+div.menu div
+{
+	display: table-row;
+	height: 6mm;
+}
+
+div.menu div div
+{
+	display: table-cell;
+	padding: 2mm;
+	cursor: pointer;
+}
+
+div.menu div div:hover
+{
+	background: gray;
+}
+
+div.space
+{
+	width: auto;
+}
+
+div.mediator
+{
+/*    background-image: url("Mediator.png"); */
+}
+
+div.strings
+{
+/*    background-image: url("Strings.png"); */
+	background-repeat: repeat-x;
+}
+
+.cmd, .cmd-container *
+{
+	cursor: pointer;
+    margin: 1mm;
+    display: inline;
+}
+
+.cmd-container {
+    float: right;
+    text-align: right;
+    padding-top: 2mm;
+}
+
+.cmd:hover, .cmd-container *:hover
+{
+	background-color: gray;    
+}
+
+.permanent 
+{
+    display: block;
+    float: left;
+}
+
+/* Article
+-----------------------------------------------------------*/
+
+.announcement
+{
+	
+}
+
+article
+{
+
+
+}
+
+.h2
+{
+    margin-bottom: 3mm;
+    font-size: 16pt;
+    font-variant: small-caps;
+    font-weight: normal;
+}
+
+article section
+{
+    margin-top: 3mm;
+    text-align: justify;
+}
+
+article~.annoncement section[itemprop=descritption]
+{
+	font-style: italic;
+}
+
+.text
+{
+	text-indent: 0.5cm;
+}
+
+.author
+{
+    text-align: right;
+}
+
+/* Dish Menu
+-----------------------------------------------------------*/
+
+.category {
+    background-color: blanchedalmond;
+    text-indent: 3mm;
+}
+
+table.dish-menu {
+    width: 80%;
+    border-collapse: collapse;
+    padding: 1cm;
+}
+
+table.dish-menu tr td {
+    border: 1px solid gray;
+    margin: 2mm 4mm 2mm 4mm;
+}

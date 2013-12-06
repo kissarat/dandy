@@ -1,0 +1,9 @@
+﻿@using Johnny
+@model Johnny.Models.Article
+@Html.HiddenFor(m => m.Id)
+<h2 itemprop="title">
+    @Html.DisplayFor(m => m.Title)
+</h2>
+<section itemprop="description">
+    @Html.DisplayFor(m => m.Description)
+</section>

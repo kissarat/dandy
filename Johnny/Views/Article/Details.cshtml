@@ -1,0 +1,19 @@
+﻿@using Johnny
+@model Johnny.Models.Article
+           
+@this.InitView()
+
+<article itemscope>
+    @Html.Partial("_Аnnouncement", Model)
+    <section class="text" itemprop="text">
+        @Html.DisplayFor(m => m.Text)
+    </section>
+    <div class="author">
+         @Html.DisplayFor(m => m.PublicationDate), <i>@Html.DisplayFor(m => m.Author.Login)</i>
+    </div>
+</article>
+@Model.PermanentLink()
+<div class="cmd-container">           
+    @Html.Partial("~/Views/Shared/_EditButtons.cshtml", Model)
+    @Html.UniAction("Повернутись", "Index")
+</div>

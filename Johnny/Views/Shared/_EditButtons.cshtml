@@ -1,0 +1,10 @@
+﻿@model Johnny.Models.Model
+@using Johnny
+@if (Johnny.Logic.Manager.Current.User.IsAdmin)
+{
+    <text>
+    @Html.UniAction("Редагувати", "Edit", Model.Id)
+    @Html.UniAction("Приховати", "Hide", Model.Id)
+    @Html.UniAction("Видалити", "Delete", Model.Id)
+    </text>
+}

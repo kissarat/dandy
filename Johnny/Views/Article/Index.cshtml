@@ -1,0 +1,23 @@
+﻿@model IEnumerable<Johnny.Models.Article>
+@using Johnny
+@using Johnny.Logic
+
+@{ this.InitView(); }
+
+@if (Manager.Current.User.IsAdmin)
+{
+    <div class="cmd-container">
+        @Html.UniAction("Створити", "Create")
+    </div>
+}
+
+@foreach (var article in Model)
+{
+    <article itemscope class="announcement">
+    @Html.Partial("_Аnnouncement", article)
+    <div class="cmd-container">
+        @Html.UniAction("Переглянути", "Details", article.Id)
+        @Html.Partial("~/Views/Shared/_EditButtons.cshtml", article)
+    </div>
+    </article>
+}

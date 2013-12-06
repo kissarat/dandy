@@ -1,0 +1,57 @@
+﻿@using Johnny
+@using Johnny.Models
+@model IEnumerable<Johnny.Models.Dish>
+
+@{ this.InitView(); }
+@*<script>
+    $(function () {
+        hideAllMenu();
+    });
+</script>*@
+@*@{
+    this.InitView();
+    var grid = new WebGrid(Model,
+            defaultSort:"Name", canPage: false
+        );
+    grid.SortDirection = SortDirection.Ascending;
+}
+
+@grid.GetHtml(displayHeader: false,
+columns:grid.Columns(
+        grid.Column("Name", format: d => Helper.UniAction(Html, d.Name, "Edit", d.Id)),
+        grid.Column("Price"),
+        grid.Column("PreparationTime", format: d => d.PreparationTime.Minutes)
+))*@
+<div>Сума: <span class="sum">0</span> грн</div>
+<table class="dish-menu">
+@foreach (var category in Johnny.Data.DishCategoryData.Categories)
+{
+    int catId = category.Id;
+    var dishes = Model.Where(d => d.CategoryId == catId).OrderBy(d => d.Name);
+<tr class="category">
+    <td colspan="5">
+        @category.Name
+    </td>
+</tr>
+foreach (var dish in dishes)
+{
+<tr>
+    <td>
+        @Html.UniAction(dish.Name, "Details", dish.Id)
+    </td>
+    <td>
+        @dish.Amount г
+    </td>
+    <td>
+        @dish.Price грн
+    </td>
+    <td>
+        @dish.PreparationTime.Minutes хв
+    </td>
+    <td>
+        <input type="checkbox" onchange="countDish(this.checked, @Math.Round(dish.Price))"></input>
+    </td>
+</tr>            
+}
+}
+</table>

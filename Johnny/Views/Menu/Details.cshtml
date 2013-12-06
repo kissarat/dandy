@@ -1,0 +1,47 @@
+﻿@using Johnny
+@using Johnny.Logic
+@model Johnny.Models.Dish
+           
+@this.InitView()
+
+<article itemscope>
+<h2 itemprop="name">
+    @Html.DisplayFor(m => m.Name)
+</h2>
+<div itemprop="amount">
+    @Html.LabelFor(m => m.Amount):
+    @Html.DisplayFor(m => m.Amount)
+</div>
+<div itemprop="preparation-time">
+    @Html.LabelFor(m => m.PreparationTime):
+    @Html.DisplayFor(m => m.PreparationTime)
+</div>
+<div itemprop="price">
+    @Html.LabelFor(m => m.Price):
+    @Html.DisplayFor(m => m.Price)
+</div>
+<div itemprop="price">
+    @Html.LabelFor(m => m.Category):
+    @Html.DisplayFor(m => m.Category.Name)
+</div>
+@*<section itemprop="description">
+    @Html.DisplayFor(m => m.Description)
+</section>*@
+@if (Model.Delicious.Count > 0)
+{
+    <div>
+        <h2>Смакує з:</h2>
+        @foreach (var delicious in Model.Delicious)
+        {
+            <div>
+                @Html.UniAction(delicious.Name, "Details", delicious.Id)
+            </div>
+        }
+    </div>
+}
+</article>
+@Model.PermanentLink()
+<div class="cmd-container">           
+    @Html.Partial("~/Views/Shared/_EditButtons.cshtml", Model)
+    @Html.UniAction("Повернутись", "Index")
+</div>
